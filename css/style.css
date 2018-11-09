@@ -1,9 +1,9 @@
 @font-face{
 	font-family:"qlassik-tb";
-    src:url("../font/qlassik-tb.eot") format("eot"),
-	url("../font/qlassik-tb.woff") format("woff"),
-	url("../font/qlassik-tb.ttf") format("truetype"),
-	url("../font/qlassik-tb.svg#WendyLPStd-Medium") format("svg");
+    src:url("font/qlassik-tb.eot") format("eot"),
+	url("font/qlassik-tb.woff") format("woff"),
+	url("font/qlassik-tb.ttf") format("truetype"),
+	url("font/qlassik-tb.svg#WendyLPStd-Medium") format("svg");
 }
 @media all and (min-width:1020px){
     .container{
