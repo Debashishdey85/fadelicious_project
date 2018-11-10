@@ -10,24 +10,6 @@
         width: 960px;
     }
 }
-/*		Mobile Layout: 320px.
-		Gutters: 24px.
-		Outer margins: 34px.
-		Inherits styles from: Default Layout.
----------------------------------------------
-cols    1     2      3
-px      68    160    252    */
-
-@media only screen and (max-width: 767px) {
-.header ul{
-	border:none;
-}	
-    .header ul li{
-        border-right: none;
-    }
-	
-	
-}
 body{
   font-family: qlassic;background: #E8E8E8;  
 }
@@ -42,6 +24,9 @@ body{
 }
 .header .navbar-collapse{
     justify-content: flex-end;
+}
+.header .menu{
+    
 }
 .header ul{
     border: 1px solid #AFAFAF;border-radius: 6px;
@@ -146,6 +131,32 @@ body{
    padding: 0px 3px;border-radius: 7px;text-decoration: none;margin-right: 6px;color: #5E78AE;
     
 }
+
+
+
+/*		Mobile Layout: 320px.
+		Gutters: 24px.
+		Outer margins: 34px.
+		Inherits styles from: Default Layout.
+---------------------------------------------
+cols    1     2      3
+px      68    160    252    */
+
+@media only screen and (max-width: 767px) {
+.header ul{
+	border:none;
+}	
+    .header ul li{
+        border-right: none;
+    }
+	
+	
+}
+
+
+
+
+
 
 
 
