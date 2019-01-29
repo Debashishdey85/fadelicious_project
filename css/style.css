@@ -1,6 +1,6 @@
 @font-face{
 	font-family:"qlassik-tb";
-        src:url("font/qlassik-tb.eot") format("eot"),
+    src:url("font/qlassik-tb.eot") format("eot"),
 	url("font/qlassik-tb.woff") format("woff"),
 	url("font/qlassik-tb.ttf") format("truetype"),
 	url("font/qlassik-tb.svg#WendyLPStd-Medium") format("svg");
@@ -15,7 +15,7 @@ body{
 }
 html, body {
     overflow-x: hidden;
-} 
+}
 /*--header css start--*/
 .header{
     background: #E8E8E8;padding: 30px 0px;
@@ -90,8 +90,7 @@ html, body {
     font-size: 16px;color: #747474;
 }
 .slider_bottom .bottom_aria .bdr{
-    border-radius: 5px; font-size: 15px;color: #3A3A3A;padding: 2px 10px;
-    border: 1px solid #AFAFAF;border-width: 0px 0px 1px 0px;margin-bottom: 20px;
+    border-radius: 5px; font-size: 15px;color: #3A3A3A;padding: 2px 10px;border: 1px solid #AFAFAF;border-width: 0px 0px 1px 0px;margin-bottom: 20px;
 }
 /*--css content aria--*/
 .content_aria{
@@ -110,8 +109,7 @@ html, body {
     font-size: 22px;color: #3A3A3A;margin-bottom: 40px;
 }
 .content_aria .box img{
-    background: #393848;padding: 5px;border: 1px solid #cfcfcf;
-    border-radius: 5px;margin-bottom: 25px;
+    background: #393848;padding: 5px;border: 1px solid #cfcfcf;border-radius: 5px;margin-bottom: 25px;
 }
 /*--footer_1 css  start--*/
 .footer_1{
@@ -122,8 +120,7 @@ html, body {
     margin-bottom: 35px;
 }
 .footer_2{
-    background: #202020;padding: 30px;color: #AAAAAA;
-    border-top: 4px solid #131313;
+    background: #202020;padding: 30px;color: #AAAAAA;border-top: 4px solid #131313;
 }
 .social_icon ul{
     margin-bottom: -10px;
@@ -139,10 +136,8 @@ html, body {
    margin-left: 10px;
 }
 .social_icon ul li a:hover{
-   color: #A0A0A0;
+	color: #A0A0A0;
 }
-
-
 
 /*		Mobile Layout: 320px.
 		Gutters: 24px.
