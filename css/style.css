@@ -109,18 +109,28 @@ html, body {
     font-size: 22px;color: #3A3A3A;margin-bottom: 40px;
 }
 .content_aria .box img{
-    background: #393848;padding: 5px;border: 1px solid #cfcfcf;border-radius: 5px;margin-bottom: 25px;
+    background: #393848;padding: 5px;
+	border: 1px solid #cfcfcf;
+	border-radius: 5px;margin-bottom: 25px;
 }
 /*--footer_1 css  start--*/
 .footer_1{
-  background: #2B2B2D;border-top: 4px solid #100F10;border-bottom: 4px solid #4F4448;color: white;
+  background: #2B2B2D;
+  border-top: 4px solid #100F10;
+  border-bottom: 4px solid #4F4448;
+  color: white;
 }
 .recent, .archive, .twitter{
     margin-top: 40px;
     margin-bottom: 35px;
 }
 .footer_2{
-    background: #202020;padding: 30px;color: #AAAAAA;border-top: 4px solid #131313;
+    background: #202020;
+	padding: 22px;color: #AAAAAA;
+	border-top: 4px solid #131313;
+}
+.footer_2 p {
+    font-size: 14px;
 }
 .social_icon ul{
     margin-bottom: -10px;
@@ -132,12 +142,19 @@ html, body {
 .social_icon ul li a{
    text-decoration: none;padding: 5px;
    display: block;color: #fff;
-   font-size: 22px;
+   font-size: 16px;
    margin-left: 10px;
 }
 .social_icon ul li a:hover{
 	color: #A0A0A0;
 }
+.design a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+	margin-left: 23px;
+}
+
 
 /*		Mobile Layout: 320px.
 		Gutters: 24px.
