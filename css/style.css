@@ -130,7 +130,7 @@ html, body {
 	border-top: 4px solid #131313;
 }
 .footer_2 p {
-    font-size: 14px;
+    font-size: 12px;
 }
 .social_icon ul{
     margin-bottom: -10px;
@@ -141,7 +141,7 @@ html, body {
 }
 .social_icon ul li a{
    text-decoration: none;padding: 5px;
-   display: block;color: #fff;
+   display: block;color: #38BDE5;
    font-size: 16px;
    margin-left: 10px;
 }
@@ -150,9 +150,9 @@ html, body {
 }
 .design a {
     text-decoration: none;
-    color: #fff;
+    color: #737373;
     font-size: 13px;
-	margin-left: 23px;
+	
 }
 
 
